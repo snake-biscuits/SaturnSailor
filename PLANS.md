@@ -1,3 +1,5 @@
+# Plans
+
 ## Old Attempts
 
  * [Python](https://bitbucket.org/snake-biscuits/starwar)
@@ -92,3 +94,19 @@ resources/
 need a text fomat
 UTF-8 would be nice
 UTF-16 could be faster & more stable
+
+
+## Optimisation
+ * Stable Orbits
+
+
+## Gameplay
+ * Slingshotting
+ * Drag debris w/ gravity
+   - Asteroid Bowling
+ * Asteroids
+   - Knapping
+   - Variable Density
+   - Elements
+     * Gravitaionally Stable Nuclear Reactor
+       (like that one ancient naturally-occuring nuclear reactor)
